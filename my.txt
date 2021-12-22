@@ -1,0 +1,35 @@
+﻿url_extractor "https://clockify.me"  -url_list="clockify.me"
+Url_Extractor.exe "http://google.com" -url_list="google" -m 200 -exception_list="test1,test2"
+
+TLDFinder_V2.0.exe "domain_name" -url="primary_domain"
+Ex : TLDFinder_V2.0.exe "facebook" -url="facebook.com"
+
+
+Site for finding url ownership
+1. https://www.whois.com/whois/cloudplusservice.com
+2. myip.ms
+
+site to find related domains
+https://tools.whoisxmlapi.com/reverse-whois-search
+
+csi-testing.pem Pathway 
+ssh -i C:/Users/chandank/Downloads/csi-testing.pem ubuntu@34.221.230.234
+
+CSI - Whole App
+Email id- chandank@opentext.com
+passwd is : Webroot@123
+
+Remote Desktop 
+Ip Address- 54.191.255.247  
+User Id- csiuser1
+Password- OpenText@123
+
+  
+Webroot Login Id
+Username: ckumar
+Password: CKwebroot2021!cm 
+
+command to remove any rule
+csif remove-rule --rule-id 65294
+
+
